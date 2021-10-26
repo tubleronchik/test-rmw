@@ -3,8 +3,10 @@
 Testing RMW https://github.com/ros2/rmw_fastrtps for ROS2 dashing.
 
 # Build
+```
 cd ~/ros2_ws/src
 colcon build 
+```
 
 #### Example
 
